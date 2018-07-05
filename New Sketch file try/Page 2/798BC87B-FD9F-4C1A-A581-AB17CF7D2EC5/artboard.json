@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "green": 0.6595982142857143,
-    "red": 0.1609787082079774
+    "blue": 0.6595982142857143,
+    "green": 0,
+    "red": 0.005489183508831649
   },
   "do_objectID": "798BC87B-FD9F-4C1A-A581-AB17CF7D2EC5",
   "exportOptions": {
@@ -40,15 +40,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "0D10B77D-3DD7-453E-9BC9-923D2051CCC0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A5AACB82-B47B-4FCB-8D99-A900EC01A3AC"
+      "id": "EE12524C-33E5-450F-BA5E-99A2F1A62F4F"
     }
   ],
   "name": "Artboard",
